@@ -1,0 +1,60 @@
+{
+  "incidents": [
+    {
+      "id": "inc_demo",
+      "title": "Demo: small fire near market",
+      "description": "Smoke at corner shop",
+      "location": "MG Road",
+      "category": "fire",
+      "imageUrl": null,
+      "reporterId": "user_demo",
+      "status": "reported",
+      "comments": [
+        {
+          "id": "c_demo",
+          "author": "Responder",
+          "text": "On the way",
+          "ts": 1763833029127
+        }
+      ],
+      "likes": 0,
+      "ts": 1763829429127
+    },
+    {
+      "id": "inc_ayt9szh",
+      "title": "Demo: Fire near shop",
+      "description": "Smoke seen",
+      "location": "MG Road",
+      "category": "fire",
+      "imageUrl": null,
+      "reporterId": "chethan",
+      "status": "reported",
+      "comments": [],
+      "likes": 0,
+      "ts": 1763845960083
+    },
+    {
+      "id": "inc_kf4czvw",
+      "title": "Demo: Fire near shop",
+      "description": "Smoke seen",
+      "location": "MG Road",
+      "category": "fire",
+      "imageUrl": null,
+      "reporterId": "chethan",
+      "status": "reported",
+      "comments": [],
+      "likes": 0,
+      "ts": 1763846109160
+    }
+  ],
+  "users": [
+    {
+      "id": "user_demo",
+      "name": "Demo User"
+    },
+    {
+      "id": "chethan",
+      "name": "chethan"
+    }
+  ]
+}
